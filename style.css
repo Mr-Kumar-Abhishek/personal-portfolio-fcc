@@ -14,6 +14,7 @@ html {
 
 nav {
 	display: flex;
+	justify-content: center;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -22,3 +23,15 @@ nav {
 	z-index: 1;
 	color: #fff;
 }
+
+nav > ul {
+	margin: 1rem;
+	text-decoration: none;
+	list-style: none;
+	display: flex;
+}
+
+nav > ul > li {
+	margin: 1rem;
+}
+
