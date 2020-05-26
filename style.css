@@ -87,3 +87,20 @@ hr {
 	margin-right: auto;
 	grid-template-columns: repeat(auto-fit, minmax(412px, 1fr));
 }
+
+.project-wrap > a {
+	background: #f6ea8c;
+	color: #f26d5b;
+	text-decoration: none;
+}
+
+.project-wrap > a > p {
+	color: #f26d5b;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 0.7rem 1rem;
+}
+
+img {
+	width: 100%;
+}
