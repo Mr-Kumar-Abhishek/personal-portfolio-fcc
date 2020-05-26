@@ -64,3 +64,7 @@ main {
 h1 {
 	font-size: 4rem;
 }
+
+#welcome-section > p {
+	font-size: 1.5rem;
+}
