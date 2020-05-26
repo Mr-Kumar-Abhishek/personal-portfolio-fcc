@@ -13,6 +13,7 @@
 html {
 	box-sizing: border-box;
 	scroll-behavior: smooth;
+	text-align: center;
 }
 
 nav {
@@ -60,3 +61,6 @@ main {
 	color: #fff;
 }
 
+h1 {
+	font-size: 4rem;
+}
