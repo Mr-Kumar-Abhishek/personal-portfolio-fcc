@@ -6,3 +6,8 @@
 *,*::before,*::after {
   box-sizing: inherit;
 }
+
+html {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
