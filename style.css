@@ -72,6 +72,10 @@ h1 {
 	padding: 5rem 1rem;
 }
 
-h2 {
-	border-bottom: 0.2rem solid #fff;
+hr {
+	margin-top: 1rem;
+    height: 0.2rem;
+    background: #fff;
+    border: 0px;
+    border-radius: 5px;
 }
