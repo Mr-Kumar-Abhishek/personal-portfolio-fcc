@@ -134,7 +134,8 @@ img {
 	padding: 4rem 3rem;
 }
 
-#contact .contact-header, .contact-header > h2, .contact-header > p {
+#contact, .contact-header, .contact-header > h2, .contact-header > p,
+.contact-link, .contact-link > a {
 	color: #492540;
 }
 
