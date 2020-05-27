@@ -127,6 +127,9 @@ img {
 
 #contact, footer {
 	background: #f6ea8c;
+}
+
+#contact {
 	padding: 4rem 3rem;
 }
 
@@ -150,5 +153,7 @@ img {
 }
 
 footer {
+	padding: 2rem 1rem; 
 	border-top: 0.4rem solid #492540;
+	text-align: right;
 }
