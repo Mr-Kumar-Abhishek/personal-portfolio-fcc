@@ -125,13 +125,13 @@ img {
 	box-shadow: 1px 9px 18px 0px rgba(0,0,0,0.75);
 }
 
-#contact {
+#contact, footer {
 	background: #f6ea8c;
 	padding: 4rem 3rem;
 }
 
 .show-more > svg > path , #contact, .contact-header, .contact-header > h2, .contact-header > p,
-.contact-link, .contact-link > a, .contact-link > a > svg > path {
+.contact-link, .contact-link > a, .contact-link > a > svg > path, footer, footer > p  {
 	color: #492540;
 }
 
@@ -149,3 +149,6 @@ img {
     padding-left: 1rem;
 }
 
+footer {
+	border-top: 0.4rem solid #492540;
+}
