@@ -131,6 +131,7 @@ img {
 
 #contact {
 	padding: 4rem 3rem;
+	height: 80vh;
 }
 
 .show-more > svg > path , #contact, .contact-header, .contact-header > h2, .contact-header > p,
