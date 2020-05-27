@@ -132,9 +132,13 @@ img {
 #contact {
 	background: #f6ea8c;
 	padding: 4rem 3rem;
+}
+
+#contact .contact-header, .contact-header > h2, .contact-header > p {
 	color: #492540;
 }
 
-.contact-header, .contact-header > h2, .contact-header > p {
-	color: #492540;
+.contact-header > h2 {
+	font-size: 2rem;
+	margin-bottom: 1rem;
 }
