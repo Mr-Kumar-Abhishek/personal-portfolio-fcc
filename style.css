@@ -128,3 +128,12 @@ img {
 .show-more > svg > path {
 	color: #492540;
 }
+
+#contact {
+	background: #f6ea8c;
+	color: #492540;
+}
+
+.contact-header, .contact-header > h2, .contact-header > p {
+	color: #492540;
+}
