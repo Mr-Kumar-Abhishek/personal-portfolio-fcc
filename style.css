@@ -144,7 +144,11 @@ img {
 	margin-bottom: 1rem;
 }
 
+.contact-link {
+	margin-top: 3rem;
+}
 .contact-link > a {
-	text-decoration: none;
-	font-size: 1rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-left: 1rem;
 }
