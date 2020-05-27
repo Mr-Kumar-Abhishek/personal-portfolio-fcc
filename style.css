@@ -143,3 +143,8 @@ img {
 	font-size: 2rem;
 	margin-bottom: 1rem;
 }
+
+.contact-link > a {
+	text-decoration: none;
+	font-size: 1rem;
+}
